@@ -1,0 +1,15 @@
+D:\Fenix\Animatioon\Animatioon\bin\Debug\Animatioon.exe.config
+D:\Fenix\Animatioon\Animatioon\bin\Debug\Animatioon.exe
+D:\Fenix\Animatioon\Animatioon\bin\Debug\Animatioon.pdb
+D:\Fenix\Animatioon\Animatioon\obj\Debug\Animatioon.csproj.AssemblyReference.cache
+D:\Fenix\Animatioon\Animatioon\obj\Debug\MainWindow.g.cs
+D:\Fenix\Animatioon\Animatioon\obj\Debug\App.g.cs
+D:\Fenix\Animatioon\Animatioon\obj\Debug\Animatioon_MarkupCompile.cache
+D:\Fenix\Animatioon\Animatioon\obj\Debug\Animatioon_MarkupCompile.lref
+D:\Fenix\Animatioon\Animatioon\obj\Debug\MainWindow.baml
+D:\Fenix\Animatioon\Animatioon\obj\Debug\Animatioon.g.resources
+D:\Fenix\Animatioon\Animatioon\obj\Debug\Animatioon.Properties.Resources.resources
+D:\Fenix\Animatioon\Animatioon\obj\Debug\Animatioon.csproj.GenerateResource.cache
+D:\Fenix\Animatioon\Animatioon\obj\Debug\Animatioon.csproj.CoreCompileInputs.cache
+D:\Fenix\Animatioon\Animatioon\obj\Debug\Animatioon.exe
+D:\Fenix\Animatioon\Animatioon\obj\Debug\Animatioon.pdb
